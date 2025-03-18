@@ -1,0 +1,7 @@
+,Data Type,Non-Null Count,Null Count,Mean,Median,Std Dev,Min,Max
+total_sales,float64,18922,45094,0.35,0.12,0.81,0.0,20.32
+na_sales,float64,12637,51379,0.26,0.12,0.49,0.0,9.76
+jp_sales,float64,6726,57290,0.1,0.04,0.17,0.0,2.13
+pal_sales,float64,12824,51192,0.15,0.04,0.39,0.0,9.85
+other_sales,float64,15128,48888,0.04,0.01,0.13,0.0,3.12
+critic_score,float64,6678,57338,7.22,7.5,1.46,1.0,10.0

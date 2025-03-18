@@ -1,0 +1,7 @@
+,total_sales,na_sales,jp_sales,pal_sales,other_sales,critic_score
+total_sales,1.0,0.914,0.212,0.907,0.859,0.281
+na_sales,0.914,1.0,0.065,0.685,0.688,0.3
+jp_sales,0.212,0.065,1.0,0.132,0.083,0.147
+pal_sales,0.907,0.685,0.132,1.0,0.817,0.247
+other_sales,0.859,0.688,0.083,0.817,1.0,0.244
+critic_score,0.281,0.3,0.147,0.247,0.244,1.0
