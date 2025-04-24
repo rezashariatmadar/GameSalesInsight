@@ -603,3 +603,40 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+# Data Cleansing Report
+
+## Overview
+This section documents the data cleansing operations performed on our dataset to prepare it for analysis.
+
+## Cleansing Operations Performed
+1. **Missing Value Treatment**
+   - Identified columns with missing values: [list columns]
+   - Strategy applied: [e.g., imputation with mean/median, removal, etc.]
+   - Impact: [e.g., reduced missing values from X% to Y%]
+
+2. **Outlier Detection and Treatment**
+   - Method used for detection: [e.g., IQR, Z-score, etc.]
+   - Columns processed: [list columns]
+   - Treatment strategy: [e.g., capping, removal, transformation]
+
+3. **Data Normalization/Standardization**
+   - Columns normalized: [list columns]
+   - Method used: [e.g., Min-Max scaling, Z-score normalization]
+   - Reason: [why normalization was necessary]
+
+4. **Feature Engineering**
+   - New features created: [list new features]
+   - Transformations applied: [e.g., one-hot encoding, binning]
+
+5. **Data Validation**
+   - Consistency checks performed: [list checks]
+   - Data integrity issues resolved: [describe issues and solutions]
+
+## Results
+- Initial data quality score: [X%]
+- Final data quality score: [Y%]
+- Total records before cleansing: [number]
+- Total records after cleansing: [number]
+
+---
