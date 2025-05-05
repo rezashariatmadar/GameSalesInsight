@@ -1,0 +1,43 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.xml
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Environment and config files
+.env
+.env.*
+config.ini
+*.cfg
+
+# Log files
+*.log
+logs/
+log/
+
+# Build and distribution
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak

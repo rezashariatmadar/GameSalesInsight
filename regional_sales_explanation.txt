@@ -1,0 +1,11 @@
+
+    What This Chart Shows:
+    • Each bubble represents a video game, sized by its total global sales
+    • Games that sell well in Japan (vertical axis) form a distinct group (Japanese Favorites)
+    • Games that sell well across all regions appear in the Global Blockbusters segment
+    • Most games have stronger sales in North America than in Japan
+
+    Business Implications:
+    • Games targeting Japanese markets need different features and marketing
+    • The biggest global hits generally perform well in both regions
+    
